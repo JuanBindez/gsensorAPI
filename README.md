@@ -1,7 +1,11 @@
 # gsensorAPI
 API server
 
-### Usage
+### Run Flask
+
+    python3 main.py
+
+### or get http and read datas whith script
 
 ```python
 import requests
